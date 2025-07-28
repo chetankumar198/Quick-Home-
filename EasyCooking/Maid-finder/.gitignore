@@ -12,3 +12,4 @@ backend/**/node_modules/
 # OS junk
 .DS_Store
 Thumbs.db
+"EasyCooking/Backend/serviceAccountKey.json" 
