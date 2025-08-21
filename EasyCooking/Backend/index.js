@@ -1,7 +1,7 @@
 const express = require('express');
 const mongoose = require('mongoose');
 const app = express();
-const port = 1000;
+const port = process.env.PORT || 1000;
 
 
 // ✅ Middleware to parse JSON request bodies
